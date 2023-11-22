@@ -1,4 +1,3 @@
 User-agent: *
-Disallow:
+Disallow: /contact
 Allow: /
-Sitemap: https://bitwain.com/sitemap2.xml
