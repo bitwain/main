@@ -1,0 +1,95 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+/* Navigation Bar */
+.navbar {
+    margin-bottom: 20px;
+}
+
+.navbar-brand {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+/* Hero Section */
+.hero-section {
+    background: #007baf;
+    color: white;
+    padding: 60px 0;
+}
+
+.hero-section h1 {
+    font-size: 2.5em;
+    margin-bottom: 15px;
+}
+
+.hero-section p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+/* Services Section */
+.services-section {
+    background: #f8e9fc;
+    padding: 60px 0;
+}
+
+.services-section h2 {
+    font-size: 2em;
+    margin-bottom: 40px;
+}
+
+.services-section .col-md-4 {
+    margin-bottom: 30px;
+}
+
+.services-section h3 {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+}
+
+/* About Section */
+.about-section {
+    padding: 60px 0;
+}
+
+.about-section h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+/* Footer */
+.footer {
+    background: #343a40;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.footer p {
+    margin: 0;
+}
+
+/* Utility Classes */
+.text-center {
+    text-align: center;
+}
+
+.btn-primary {
+    background: #007bff;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    font-size: 1em;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .hero-section, .services-section, .about-section {
+        padding: 40px 0;
+    }
+}

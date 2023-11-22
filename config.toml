@@ -8,6 +8,8 @@ description = ""
 # The default language; used in feeds.
 default_language = "en"
 
+output_dir = "docs"
+
 render_emoji = false
 
 # Whether to automatically compile all Sass files in the sass directory
@@ -24,7 +26,7 @@ highlight_code = false
 [extra]
 # Put all your custom variables here
 
-theme = "juice"
+
 
 ############
 
