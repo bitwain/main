@@ -1,5 +1,5 @@
 +++
-title = "About Us"
+title = "Contact Us"
 template="page.html"
 +++
 

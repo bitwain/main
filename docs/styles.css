@@ -17,7 +17,7 @@ body {
 
 /* Hero Section */
 .hero-section {
-    background: #007baf;
+    background: #595959;
     color: white;
     padding: 60px 0;
 }
@@ -79,7 +79,7 @@ body {
 }
 
 .btn-primary {
-    background: #007bff;
+    background: #008bff;
     border: none;
     padding: 10px 20px;
     color: white;
